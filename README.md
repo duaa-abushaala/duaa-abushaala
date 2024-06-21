@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <a href="https://github.com/duaa-abushaala/MindGlowMobileApp">Mind Glow Health App</a><br>
-- <a href="https://github.com/duaa-abushaala/MindGlowMobileApp">Hang Man</a>
+- <a href="https://github.com/duaa-abushaala/hang-man">Hang Man</a>
 
 <h2> 📃 Certifications: </h2>
 
