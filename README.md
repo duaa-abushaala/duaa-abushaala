@@ -4,9 +4,10 @@
 - <a href="https://github.com/duaa-abushaala/MindGlowMobileApp">Mind Glow Health App</a><br>
 
 <h2>👨‍💻 Mini Projects:</h2>
-- <a href="https://github.com/duaa-abushaala/hang-man">Hang Man</a>
-<br>
-- <a href = "https://github.com/duaa-abushaala/Calculator">Calculator</a>
+- <a href="https://github.com/duaa-abushaala/hang-man">Hang Man</a> <br>
+- <a href = "https://github.com/duaa-abushaala/Calculator">Calculator</a> <br>
+- <a href = "https://github.com/duaa-abushaala/Calculator">Caesar Cipher</a> <br>
+- <a href = "https://github.com/duaa-abushaala/Calculator">Blind Auction</a> <br>
 <h2> 📃 Certifications: </h2>
 
 <h2> 🤳 Connect with me:</h2>
