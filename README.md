@@ -4,6 +4,7 @@
 - <a href="https://github.com/duaa-abushaala/MindGlowMobileApp">Mind Glow Health App</a><br>
 
 <h2>👨‍💻 Mini Projects:</h2>
+- <a href="https://github.com/duaa-abushaala/snake-game">Snake Game</a> <br>
 - <a href="https://github.com/duaa-abushaala/hang-man">Hang Man</a> <br>
 - <a href = "https://github.com/duaa-abushaala/Calculator">Calculator</a> <br>
 - <a href = "https://github.com/duaa-abushaala/Calculator">Caesar Cipher</a> <br>
