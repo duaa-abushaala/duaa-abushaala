@@ -9,7 +9,7 @@
 - <a href = "https://github.com/duaa-abushaala/Calculator">Calculator</a> <br>
 - <a href = "https://github.com/duaa-abushaala/Calculator">Caesar Cipher</a> <br>
 - <a href = "https://github.com/duaa-abushaala/Calculator">Blind Auction</a> <br>
-- <a href = "https://github.com/duaa-abushaala/Calculator">Ping Pong</a> <br>
+- <a href = "https://github.com/duaa-abushaala/pingpong">Ping Pong</a> <br>
 
 <h2> 📃 Certifications: </h2>
 
