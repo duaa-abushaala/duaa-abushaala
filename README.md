@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <a href="https://github.com/duaa-abushaala/MindGlowMobileApp">Mind Glow Health App</a><br>
+- <a href="https://github.com/duaa-abushaala/MindGlowMobileApp">Conversational Simulator: An Educational Mobile App</a><br>
+
 
 <h2>👨‍💻 Mini Projects:</h2>
 - <a href="https://github.com/duaa-abushaala/snake-game">Snake Game</a> <br>
@@ -23,9 +25,7 @@
 [instagram]: https://www.instagram.com/duaa_abushaala/
 [linkedin]: https://linkedin.com/in/duaa-abushaala
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
