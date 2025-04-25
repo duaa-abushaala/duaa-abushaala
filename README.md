@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <a href="https://github.com/duaa-abushaala/MindGlowMobileApp">Mind Glow Health App</a><br>
-- <a href="https://github.com/duaa-abushaala/MindGlowMobileApp">Conversational Simulator: An Educational Mobile App</a><br>
+- <a href="https://github.com/duaa-abushaala/Conversational-Simulator">Conversational Simulator: An Educational Mobile App</a><br>
 
 
 <h2>👨‍💻 Mini Projects:</h2>
